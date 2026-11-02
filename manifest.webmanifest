@@ -1,0 +1,10 @@
+{
+  "name": "SkyClaw SD Trader - Standalone",
+  "short_name": "SkyClaw",
+  "description": "Standalone SkyClaw mobile dashboard. Connect a broker later if desired.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#101827",
+  "theme_color": "#101827",
+  "icons": [{"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+}
